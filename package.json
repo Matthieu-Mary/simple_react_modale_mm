@@ -1,7 +1,7 @@
 {
-  "name": "simple_react_modale_mm",
+  "name": "typescript-simple-react-modale-mm",
   "version": "1.0.0",
-  "description": "Display a simple modale",
+  "description": "Display a simple modale using typescript",
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf dist",

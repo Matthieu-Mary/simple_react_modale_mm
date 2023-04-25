@@ -1,19 +1,15 @@
-# TypeScript Components by Rupert
-
-This repository was created as part of a guide to publishing TypeScript React components. You can read the guide over here: [Publishing TypeScript React components to NPM](https://fildon.hashnode.dev/publishing-typescript-react-components-to-npm)
-
 ## Getting Started
 
 Install this package:
 
 ```shell
-npm add typescript-components-by-rupert
+npm add typescript-simple-react-modale-mm
 ```
 
-Import the Counter component:
+Import the Modale component:
 
 ```js
-import { Counter } from "typescript-components-by-rupert";
+import { Modale } from "typescript-simple-react-modale-mm";
 ```
 
-You can then render the `Counter` component like any other React component in JSX.
+You can then render the `Modale` component like any other React component in JSX.
