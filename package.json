@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pasdagepourcoder/demo-package-components-react.git"
+    "url": "git+https://github.com/Matthieu-Mary/simple_react_modale_mm.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pasdagepourcoder/demo-package-components-react/issues"
+    "url": "https://github.com/Matthieu-Mary/simple_react_modale_mm/issues"
   },
-  "homepage": "https://github.com/pasdagepourcoder/demo-package-components-react#readme",
+  "homepage": "https://github.com/Matthieu-Mary/simple_react_modale_mm#readme",
   "devDependencies": {
     "@types/react": "^17.0.14",
     "@types/react-dom": "^18.0.6",
