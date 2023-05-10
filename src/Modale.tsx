@@ -6,8 +6,8 @@ type Props = {
     imageSrc: any;
     imageName: string;
     text: string;
-    linkText: string;
-    linkPath: string
+    linkText?: string | undefined;
+    linkPath?: string | undefined 
 }
 
 function Modale({onClose, imageSrc, imageName, text, linkText, linkPath}: Props) {
@@ -15,7 +15,7 @@ function Modale({onClose, imageSrc, imageName, text, linkText, linkPath}: Props)
       <div className='modale'>
           <img src={imageSrc} alt={imageName} onClick={onClose} />
           <p>{text}</p>
-          <Link to={linkPath}>{linkText}</Link>
+          <Link to={linkPath??"/"}>{linkText}</Link>
       </div>
     )
   }
