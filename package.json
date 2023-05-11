@@ -1,6 +1,6 @@
 {
   "name": "typescript-simple-react-modale-mm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Display a simple modale using typescript",
   "main": "index.js",
   "scripts": {
